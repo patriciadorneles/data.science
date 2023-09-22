@@ -1,6 +1,6 @@
 # data.science
 Portfólio de projetos de Data Science
-[![author](https://www.linkedin.com/in/patr%C3%ADcia-berniere-dorneles-592053198/)) 
+(https://www.linkedin.com/in/patr%C3%ADcia-berniere-dorneles-592053198/)) 
 
 <p align="center">
   <img src="banner data science.png" >
@@ -16,7 +16,7 @@ I aim to continue progressing in data analysis, as I believe it holds immense po
 Throughout my journey, I have gained experience in exploring datasets and deriving meaningful insights. I'm motivated, organized, and thrive in collaborative team environments.
 
 **Links:**
-* [LinkedIn]([https://www.linkedin.com/in/carlosfab](https://www.linkedin.com/in/patr%C3%ADcia-berniere-dorneles-592053198/))
+* [LinkedIn] (https://www.linkedin.com/in/patr%C3%ADcia-berniere-dorneles-592053198/)
 
 
 ---
